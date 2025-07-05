@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646472160103",
+    "project_id": "nutrino-22c2b",
+    "storage_bucket": "nutrino-22c2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646472160103:android:aa0d52dc2ba352cca255c2",
+        "android_client_info": {
+          "package_name": "com.example.nutrino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8VII0FwxHtw366boaJlTJ_TH-8MYEwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
